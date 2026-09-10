@@ -4,6 +4,8 @@ Highlights efficient Mortimer task choices and recommends skips for post-99 Slay
 
 Pick between Main, Ironman, Ironman Barrage, or a custom list tailored to your account on ehp.gg.
 
+Recommended blocks for the built-in lists: Cave horrors and Hydras.
+
 To import a custom list:
 
 1. Open [ehp.gg/slayer](https://ehp.gg/slayer). Optionally import your stats and bank for a more accurate solve.
