@@ -36,7 +36,7 @@ public class TaskRankingTest
 	@Test
 	public void bundledMainRankingPreservesExportCutoff() throws IOException
 	{
-		assertBundledCutoff("main.json", 86, "basilisks/unique", "kurask/xp");
+		assertBundledCutoff("main.json", 85, "dark-beast/xp", "wyrm/quantity");
 	}
 
 	@Test
