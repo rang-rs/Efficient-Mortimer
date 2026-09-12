@@ -42,13 +42,13 @@ public class TaskRankingTest
 	@Test
 	public void bundledIronmanRankingPreservesExportCutoff() throws IOException
 	{
-		assertBundledCutoff("ironman.json", 83, "jelly/quantity", "drake/unique");
+		assertBundledCutoff("ironman.json", 84, "gryphons/quantity", "wyrm/unique");
 	}
 
 	@Test
 	public void bundledIronmanBarrageRankingPreservesExportCutoff() throws IOException
 	{
-		assertBundledCutoff("ironman-barrage.json", 84, "gryphons/quantity", "wyrm/clue");
+		assertBundledCutoff("ironman-barrage.json", 85, "kurask/unique", "aberrant-spectre/unique");
 	}
 
 	@Test
